@@ -11,7 +11,7 @@ public class HW {
             double x1, x2;
             x1 = (-b - Math.sqrt(D)) / (2 * a);
             x2 = (-b + Math.sqrt(D)) / (2 * a);
-            System.out.println("Корни уравнения: x1 = " + x1 + ", x2 = " + x2);
+            System.out.println("Корни уравнения:  x1 = " + x1 + ", x2 = " + x2);
 
 
     }
